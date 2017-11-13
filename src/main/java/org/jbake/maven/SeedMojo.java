@@ -33,7 +33,7 @@ import java.util.zip.ZipInputStream;
 
 import static java.lang.String.format;
 import static java.util.Arrays.asList;
-import static org.apache.commons.lang.StringUtils.join;
+import static org.apache.commons.lang3.StringUtils.join;
 
 /**
  * Seeds a new JBake Template into the (non-existing) directory defined by outputDirectory
